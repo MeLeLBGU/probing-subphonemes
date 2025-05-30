@@ -1,0 +1,26 @@
+certifi==2025.4.26
+charset-normalizer==3.4.2
+click==8.1.8
+editdistance==0.8.1
+epitran @ git+https://github.com/dmort27/epitran.git@2f374c9d859647d2925699f89ea184d39ec4893c
+idna==3.10
+jamo==0.4.1
+joblib==1.5.1
+marisa-trie==1.2.1
+munkres==1.1.4
+mypy_extensions==1.1.0
+numpy==2.0.2
+packaging==25.0
+panphon @ git+https://github.com/dmort27/panphon.git@0500057b81f2f663bb7767745c3b0075551e2b7c
+pathspec==0.12.1
+platformdirs==4.3.8
+PyYAML==6.0.2
+regex==2024.11.6
+requests==2.32.3
+scikit-learn==1.6.1
+scipy==1.13.1
+threadpoolctl==3.6.0
+tomli==2.2.1
+typing_extensions==4.13.2
+unicodecsv==0.14.1
+urllib3==2.4.0
