@@ -1,5 +1,5 @@
 # Probing Subphonemes
-This repository contains the code used in [Probing Subphonemes in Morphology Models](https://arxiv.org/abs/2505.11297). 
+This repository contains the code used in [Probing Subphonemes in Morphology Models](https://arxiv.org/abs/2505.11297) (ACL FIndings 2025). 
 
 It contains both the phoneme probe and harmony probe introduced in the paper.
 
